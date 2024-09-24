@@ -23,7 +23,7 @@ Website similar to **notion** built using the `MERN` ([MongoDB](https://mongodb.
 
 | `Dark Mode`                              | 
 | :--------------------------------------- | 
-|  | 
+| ![S-Dark](https://github.com/user-attachments/assets/de3dabe9-a4f1-40bf-ba0a-b657f69f4e7e)| 
 
 ## 📝 Functionality
 
