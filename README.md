@@ -19,7 +19,7 @@ Website similar to **notion** built using the `MERN` ([MongoDB](https://mongodb.
 
 ## 🎞 Demo
 
-### Try it your self [here]([https://MERNotion.abhifuturetech.com])!
+### Try it your self [here]([https://MERNotion.abhifururetech.com/login])!
 
 | `Dark Mode`                              | 
 | :--------------------------------------- | 
