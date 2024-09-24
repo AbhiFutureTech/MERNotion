@@ -47,4 +47,4 @@ Website similar to **notion** built using the `MERN` ([MongoDB](https://mongodb.
 
 Made with ❤️
 
-- Abhijit Patil ([@abhifurturetech]([https://github.com/AbhiFutureTech])
+- Abhijit Patil ([https://github.com/AbhiFutureTech])
