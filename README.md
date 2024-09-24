@@ -19,7 +19,7 @@ Website similar to **notion** built using the `MERN` ([MongoDB](https://mongodb.
 
 ## 🎞 Demo
 
-### Try it your self [here](https://pseudo-notion.pettiboy.com)!
+### Try it your self [here](https://MERNotion.abhifuturetech.com)!
 
 | `Dark Mode`                              | 
 | :--------------------------------------- | 
@@ -47,4 +47,4 @@ Website similar to **notion** built using the `MERN` ([MongoDB](https://mongodb.
 
 Made with ❤️
 
-- Hussain Pettiwala ([@pettiboy](https://github.com/pettiboy))
+- Abhijit Patil ([@abhifurturetech]([https://github.com/AbhiFutureTech])
